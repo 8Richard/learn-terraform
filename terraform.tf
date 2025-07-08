@@ -1,8 +1,8 @@
-# Copyright (c) HashiCorp, Inc.
+/*# Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
 terraform {
-/*
+
   cloud {
     organization = "zhenyu"
 
@@ -10,7 +10,7 @@ terraform {
       name = "learn-terraform"
     }
   }
-/*
+
   required_providers {
     aws = {
       source  = "hashicorp/aws"
@@ -20,3 +20,4 @@ terraform {
 
   required_version = "~> 1.2"
 }
+/*
