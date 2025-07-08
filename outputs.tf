@@ -1,4 +1,4 @@
-# Copyright (c) HashiCorp, Inc.
+/*# Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
 output "instance_ami" {
@@ -9,3 +9,4 @@ output "instance_arn" {
   value = aws_instance.ubuntu.arn
 }
 
+*/
