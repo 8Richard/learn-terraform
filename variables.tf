@@ -1,4 +1,4 @@
-# Copyright (c) HashiCorp, Inc.
+/*# Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
 variable "region" {
@@ -16,3 +16,4 @@ variable "instance_name" {
   default     = "Provisioned by Terraform"
 }
 
+*/
