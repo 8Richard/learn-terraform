@@ -1,6 +1,6 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
-
+/*
 provider "aws" {
   region = var.region
 }
@@ -29,3 +29,4 @@ resource "aws_instance" "ubuntu" {
     Name = var.instance_name
   }
 }
+*/
